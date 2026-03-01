@@ -19,7 +19,7 @@ Compreender organização de arquivos web
 
 ---
 
-## Tecnologias utilizadas:
+# Tecnologias utilizadas
 - HTML
 - CSS
 - JS
@@ -48,15 +48,15 @@ Projeto acadêmico — 1º semestre
 
 ---
 
-#📷 Demonstração Site
+# 📷 Demonstração Site
 
 ## Home:
 <img width="995" height="628" alt="image" src="https://github.com/user-attachments/assets/662a746f-a552-4eb6-a3c8-3439d1cb6a64" />
 
-##Notícias:
+## Notícias:
 <img width="994" height="623" alt="image" src="https://github.com/user-attachments/assets/4d384eca-8fcc-4568-b1c4-786cf73e3a2c" />
 
-##Contato:
+## Contato:
 <img width="993" height="613" alt="image" src="https://github.com/user-attachments/assets/cdd748c8-4433-40fe-a414-d04bfd13ce88" />
 
 
