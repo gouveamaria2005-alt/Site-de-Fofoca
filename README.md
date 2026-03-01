@@ -20,27 +20,28 @@ Compreender organização de arquivos web
 ---
 
 # Tecnologias utilizadas:
-HTML
-CSS
-JS
+- HTML
+- CSS
+- JS
 
 ---
 
 # Funcionalidades
 
-Layout com múltiplas seções de conteúdo
-Sistema de abas para navegação
-Cards com imagens e legendas
-Menu de navegação superior
-Efeitos visuais (hover, sombras, destaques)
-Design responsivo para celular, tablet e desktop
-Botão “voltar ao topo”
+- Layout com múltiplas seções de conteúdo
+- Sistema de abas para navegação
+- Cards com imagens e legendas
+- Menu de navegação superior
+- Efeitos visuais (hover, sombras, destaques)
+- Design responsivo para celular, tablet e desktop
+- Botão “voltar ao topo”
 
 ---
 
 # Autora
 
-Maria Eduarda Gouvea
+## Maria Eduarda Gouvea
+
 Estudante de Desenvolvimento de Software Multiplataforma
 
 Projeto acadêmico — 1º semestre
