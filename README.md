@@ -1,4 +1,4 @@
-#💬 Site de Fofoca — Projeto Web (1º semestre)
+# 💬 Site de Fofoca — Projeto Web (1º semestre)
 📌 Sobre o projeto
 
 Este é um site de fofoca desenvolvido como trabalho acadêmico no 1º semestre do curso de Desenvolvimento de Software Multiplataforma.
@@ -19,7 +19,7 @@ Compreender organização de arquivos web
 
 ---
 
-# Tecnologias utilizadas:
+## Tecnologias utilizadas:
 - HTML
 - CSS
 - JS
